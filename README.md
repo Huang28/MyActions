@@ -1,7 +1,7 @@
 ![goukey’s github stats](https://github-readme-stats.vercel.app/api?username=goukey&show_icons=true&theme=vue)
 
 # MyActions 
-
+ 
 还有哪些签到想一起放进去去，可以到[Issues](https://github.com/sazs34/MyActions/issues)里面提，记得附上git地址。
 
 ### 本项目已可以实现自动同步上游更改！[具体点击](#自动同步)
